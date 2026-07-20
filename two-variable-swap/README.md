@@ -2,10 +2,35 @@
 
 A simple Python project demonstrating how to swap the values of two variables without using a third temporary variable.
 
+```text 
+Write a program that swaps two variables without using a third variable
+Program
+
+PSEUDOCODE:
+Operators used in the program should be defined at the beginning of the file with pseudocode as follows:
+// a SHIFTL b – operator that shifts the binary representation of number a to the left by b bits, drops bits from the left, and appends zeros on the right
+Also provide the priority table of operators used in pseudocode.
+// OPERATOR PRIORITY
+//	()
+//	+ -
+//	SHIFTL
+//	=
+A line starting with // indicates a comment in pseudocode to the end of the line.
+Also specify the number of operations in your solution.
+int a, b, x
+a = 2
+b = 3
+write(a,b) // output variable values
+x = a    // 1 assignment
+a = b    // 1 assignment
+b = x    // 1 assignment
+// total 3 operations
+write(a,b) // output variable values
+
 ## Project goal
 
 The purpose of this program is to exchange the values stored in two variables.
-
+```
 Example:
 
 ```text
