@@ -79,7 +79,6 @@ The choice of data structure can strongly affect the efficiency of an algorithm.
 ## Time complexity
 
 Time complexity describes how the number of operations grows when the input size increases.
-
 It is usually expressed using Big O notation.
 
 Common complexity classes:
