@@ -187,7 +187,7 @@ def test_stack():
     # It is not placed inside print(), because otherwise None
     # would also be displayed.
 
-    stack.write()
+    stack.write() #test
     # Empty line because the stack is empty.
 
     print(stack.is_empty())
