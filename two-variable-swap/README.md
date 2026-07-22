@@ -1,5 +1,5 @@
 # Swap Two Variables Without a Temporary Variable
-test
+
 A simple Python project demonstrating how to swap the values of two variables without using a third temporary variable.
 
 ```text 
